@@ -9,4 +9,6 @@ public class HomePage {
     //table of contents
 
     //footer
+
+    //morethings on the homepage
 }
