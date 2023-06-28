@@ -8,4 +8,6 @@ public class Sales {
     //15% off
 
     //Special Sale
+
+    //Holiday Sales
 }
