@@ -11,4 +11,6 @@ public class HomePage {
     //footer
 
     //morethings on the homepage
+
+    //finished homepage
 }
